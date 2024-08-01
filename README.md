@@ -5,7 +5,7 @@ meu nome é Lucas Ren
 -estudo na escola Dr. Mitsusada Umetani
 
 
--estou utilizando alura para aprender 
+-estou utilizando alura para aprender a linguagem Java Script
 
 
 ![](https://media.tenor.com/TpH8Yp2QsBQAAAAi/one-piece-monkey-d-luffy.gif)
