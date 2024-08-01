@@ -1,9 +1,8 @@
-## Hi 👋
+## olá 👋
 
-my name is Lucas Ren 
+meu nome é Lucas Ren
 
--I studying in Alura
-
--I am developing in the Javascript language
+-estudo na escola Dr. Mitsusada Umetani
 
 
+-estou utilizando alura para aprender 
